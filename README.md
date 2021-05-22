@@ -18,3 +18,5 @@ Generic papers on DL that don't fit into the other categories.
 - 
 # Generative Adversarial Networks
 Any GAN related stuff. Image 2 Image translations, super-res etc.
+
+# Semi Supervised or Unsupervised learning
