@@ -20,3 +20,9 @@ Generic papers on DL that don't fit into the other categories.
 Any GAN related stuff. Image 2 Image translations, super-res etc.
 
 # Semi Supervised or Unsupervised learning
+
+# Reinforcement Learning
+Not really my focus but its a topic I find to be real cool. Somehow this is integrated with alot of DL work in general nowadays also, so better to know abit.
+
+## Articles
+- An Intuitive Explanation of Policy Gradient, [amazing](https://towardsdatascience.com/an-intuitive-explanation-of-policy-gradient-part-1-reinforce-aa4392cbfd3c) explanation of policy gradient rule by Adrien Lucas Ecoffet
