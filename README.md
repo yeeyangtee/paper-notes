@@ -22,7 +22,9 @@ Any GAN related stuff. Image 2 Image translations, super-res etc.
 # Semi Supervised or Unsupervised learning
 
 # Reinforcement Learning
-Not really my focus but its a topic I find to be real cool. Somehow this is integrated with alot of DL work in general nowadays also, so better to know abit.
+Not really my focus but its a topic I find to be real cool. Somehow this is integrated with alot of DL work in general nowadays also, so better to know abit. Mainly will be reading articles or summaries by other people instead of the actual paper, just to get an intuitive idea and save time.
 
 ## Articles
-- An Intuitive Explanation of Policy Gradient, [amazing](https://towardsdatascience.com/an-intuitive-explanation-of-policy-gradient-part-1-reinforce-aa4392cbfd3c) explanation of policy gradient rule by Adrien Lucas Ecoffet
+- [An Intuitive Explanation of Policy Gradient](https://github.com/yeeyangtee/paper-notes/blob/master/reinforcement-learning/an-intuitive-explanation-of-policy-gradient.md)
+, [Article](https://towardsdatascience.com/an-intuitive-explanation-of-policy-gradient-part-1-reinforce-aa4392cbfd3c) on policy gradient rule by Adrien Lucas Ecoffet
+- [Going Deeper Into Reinforcement Learning: Understanding Deep-Q-Networks](https://github.com/yeeyangtee/paper-notes/blob/master/reinforcement-learning/going-deeper-into-reinforcement-learning-understanding-deepq-networks), [Blog Post](https://danieltakeshi.github.io/2016/12/01/going-deeper-into-reinforcement-learning-understanding-dqn/) from [Daniel Taskeshi](https://danieltakeshi.github.io/).
