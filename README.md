@@ -18,7 +18,12 @@ Generic papers on DL that don't fit into the other categories.
 - 
 # Generative Adversarial Networks
 Any GAN related stuff. Image 2 Image translations, super-res etc.
-
+- OG GAN from Goodfellow
+- DCGAN
+- Pix2Pix
+- CycleGAN
+- [Multimodal Unsupervised Image-to-Image Translation](https://github.com/yeeyangtee/paper-notes/blob/master/gans/multimodal-unsupervised-image-to-image-translation.md), [ECCV](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xun_Huang_Multimodal_Unsupervised_Image-to-image_ECCV_2018_paper.pdf) 2018 (3)
+- [StarGAN](https://github.com/yeeyangtee/paper-notes/blob/master/gans/stargan.md): Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation, [CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Choi_StarGAN_Unified_Generative_CVPR_2018_paper.pdf) 2018 (3)
 # Semi Supervised or Unsupervised learning
 
 # Reinforcement Learning
