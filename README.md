@@ -8,16 +8,17 @@ This repo holds the notes for papers that I've read. Previously did this in a MS
 
 # Deep Learning
 Generic papers on DL that don't fit into the other categories.
-
-## 2017
-- [Neural Architecture Search with Reinforcement Learning](https://github.com/yeeyangtee/paper-notes/blob/master/deep-learning/neural-architecture-search-with-reinforcement-learning.md), [ICLR](https://arxiv.org/abs/1611.01578) 2017
+## 2021
+- [Rethinking "Batch" in BatchNorm](https://github.com/yeeyangtee/paper-notes/blob/master/deep-learning/rethinking-batch-in-batchnorm.md), [Review](https://arxiv.org/abs/2105.07576) from FAIR 2021
 
 ## 2020
 - [Once For All: Train one network and specialize it for efficient deployment](https://github.com/yeeyangtee/paper-notes/blob/master/deep-learning/once-for-all-train-one-network-and-specialize-it-for-efficient-deployment.md), [ICLR](https://arxiv.org/pdf/1908.09791) 2020 (2)
 - [Rethinking Pre-training and Self-training](https://github.com/yeeyangtee/paper-notes/blob/master/deep-learning/rethinking-pretraining-and-self-training.md), [NIPS](https://proceedings.neurips.cc/paper/2020/file/27e9661e033a73a6ad8cefcde965c54d-Paper.pdf) 2020 (2)
 
-## 2021
-- [Rethinking "Batch" in BatchNorm](https://github.com/yeeyangtee/paper-notes/blob/master/deep-learning/rethinking-batch-in-batchnorm.md), [Review](https://arxiv.org/abs/2105.07576) from FAIR 2021
+## 2019 
+- [CutMix](https://github.com/yeeyangtee/paper-notes/blob/master/deep-learning/cutmix-regularization.md): Regularization Strategy to Train Strong Classifiers with Localizable Fatures, [ICCV](https://openaccess.thecvf.com/content_ICCV_2019/html/Yun_CutMix_Regularization_Strategy_to_Train_Strong_Classifiers_With_Localizable_Features_ICCV_2019_paper.html) 2019 (4)
+## 2017
+- [Neural Architecture Search with Reinforcement Learning](https://github.com/yeeyangtee/paper-notes/blob/master/deep-learning/neural-architecture-search-with-reinforcement-learning.md), [ICLR](https://arxiv.org/abs/1611.01578) 2017
 # Generative Adversarial Networks
 Any GAN related stuff. Image 2 Image translations, super-res etc.
 - OG GAN from Goodfellow
