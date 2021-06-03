@@ -10,6 +10,7 @@ This repo holds the notes for papers that I've read. Previously did this in a MS
 Generic papers on DL that don't fit into the other categories.
 ## 2021
 - [Rethinking "Batch" in BatchNorm](https://github.com/yeeyangtee/paper-notes/blob/master/deep-learning/rethinking-batch-in-batchnorm.md), [Review](https://arxiv.org/abs/2105.07576) from FAIR 2021
+- Drawing Multiple Augmentation Samples Per Image During Training Efficiently Decreases Test Error, [Preprint](https://arxiv.org/abs/2105.13343) from DeepMind 2021
 
 ## 2020
 - [Once For All: Train one network and specialize it for efficient deployment](https://github.com/yeeyangtee/paper-notes/blob/master/deep-learning/once-for-all-train-one-network-and-specialize-it-for-efficient-deployment.md), [ICLR](https://arxiv.org/pdf/1908.09791) 2020 (2)
@@ -23,6 +24,8 @@ Generic papers on DL that don't fit into the other categories.
 Any GAN related stuff. Image 2 Image translations, super-res etc.
 - OG GAN from Goodfellow
 - DCGAN
+- VAE
+- VQ-VAE (discrete label VAEs)
 - Pix2Pix
 - CycleGAN
 - [Multimodal Unsupervised Image-to-Image Translation](https://github.com/yeeyangtee/paper-notes/blob/master/gans/multimodal-unsupervised-image-to-image-translation.md), [ECCV](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xun_Huang_Multimodal_Unsupervised_Image-to-image_ECCV_2018_paper.pdf) 2018 (3)
