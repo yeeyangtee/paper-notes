@@ -4,13 +4,13 @@ Too many papers in DL/AI. Need some way to keep track of skimmed papers. Highlig
 
 This repo holds the notes for papers that I've read. Previously did this in a MS word document but that got too messy and slow when I needed to refer back. Still have yet to port over most of the past readings. Score is a number from (1) to (5) where 1 is just a quick skim through and 5 is complete understanding of the whole paper.
 ## Formatting guide for this index page:
-- Name[Link to notes], Source/Conf/Journal [link to source], Year, Score
+- Name[Link to notes], Source/Conf/Journal [link to source], Year, Misc Source[Optional], Score
 
 # Deep Learning
 Generic papers on DL that don't fit into the other categories.
 ## 2021
-- [Rethinking "Batch" in BatchNorm](https://github.com/yeeyangtee/paper-notes/blob/master/deep-learning/rethinking-batch-in-batchnorm.md), [Review](https://arxiv.org/abs/2105.07576) from FAIR 2021
-- Drawing Multiple Augmentation Samples Per Image During Training Efficiently Decreases Test Error, [Preprint](https://arxiv.org/abs/2105.13343) from DeepMind 2021
+- [Rethinking "Batch" in BatchNorm](https://github.com/yeeyangtee/paper-notes/blob/master/deep-learning/rethinking-batch-in-batchnorm.md), [Review](https://arxiv.org/abs/2105.07576) 2021 FacebookAI (1) 
+- Drawing Multiple Augmentation Samples Per Image During Training Efficiently Decreases Test Error, [Arxiv preprint](https://arxiv.org/abs/2105.13343) 2021 DeepMind (3)
 
 ## 2020
 - [Once For All: Train one network and specialize it for efficient deployment](https://github.com/yeeyangtee/paper-notes/blob/master/deep-learning/once-for-all-train-one-network-and-specialize-it-for-efficient-deployment.md), [ICLR](https://arxiv.org/pdf/1908.09791) 2020 (2)
@@ -20,12 +20,13 @@ Generic papers on DL that don't fit into the other categories.
 - [CutMix](https://github.com/yeeyangtee/paper-notes/blob/master/deep-learning/cutmix-regularization.md): Regularization Strategy to Train Strong Classifiers with Localizable Fatures, [ICCV](https://openaccess.thecvf.com/content_ICCV_2019/html/Yun_CutMix_Regularization_Strategy_to_Train_Strong_Classifiers_With_Localizable_Features_ICCV_2019_paper.html) 2019 (4)
 ## 2017
 - [Neural Architecture Search with Reinforcement Learning](https://github.com/yeeyangtee/paper-notes/blob/master/deep-learning/neural-architecture-search-with-reinforcement-learning.md), [ICLR](https://arxiv.org/abs/1611.01578) 2017
+- 
 # Generative Adversarial Networks
-Any GAN related stuff. Image 2 Image translations, super-res etc.
+Any GAN related stuff. Image 2 Image translations, super-res etc. I put VAE related stuff here too since they are mostly used for generative purposes or thats what I read them for.
 - OG GAN from Goodfellow
 - DCGAN
-- VAE
-- VQ-VAE (discrete label VAEs)
+- [Variational Autoencoders](https://github.com/yeeyangtee/paper-notes/blob/master/gans/vae.md), [Paper](https://arxiv.org/abs/1312.6114), 2014 (2)
+- [Vector Quantized-VAE, Neural Discrete Representation Learning](https://github.com/yeeyangtee/paper-notes/blob/master/gans/vq-vae.md), [NIPS](https://arxiv.org/abs/1711.00937) 2017 Deepmind 
 - Pix2Pix
 - CycleGAN
 - [Multimodal Unsupervised Image-to-Image Translation](https://github.com/yeeyangtee/paper-notes/blob/master/gans/multimodal-unsupervised-image-to-image-translation.md), [ECCV](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xun_Huang_Multimodal_Unsupervised_Image-to-image_ECCV_2018_paper.pdf) 2018 (3)
