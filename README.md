@@ -26,7 +26,7 @@ Any GAN related stuff. Image 2 Image translations, super-res etc. I put VAE rela
 - OG GAN from Goodfellow
 - DCGAN
 - [Variational Autoencoders](https://github.com/yeeyangtee/paper-notes/blob/master/gans/vae.md), [Paper](https://arxiv.org/abs/1312.6114), 2014 (2)
-- [Vector Quantized-VAE, Neural Discrete Representation Learning](https://github.com/yeeyangtee/paper-notes/blob/master/gans/vq-vae.md), [NIPS](https://arxiv.org/abs/1711.00937) 2017 Deepmind 
+- [Vector Quantized-VAE, Neural Discrete Representation Learning](https://github.com/yeeyangtee/paper-notes/blob/master/gans/vq-vae.md), [NIPS](https://arxiv.org/abs/1711.00937) 2017 Deepmind (3)
 - Pix2Pix
 - CycleGAN
 - [Multimodal Unsupervised Image-to-Image Translation](https://github.com/yeeyangtee/paper-notes/blob/master/gans/multimodal-unsupervised-image-to-image-translation.md), [ECCV](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xun_Huang_Multimodal_Unsupervised_Image-to-image_ECCV_2018_paper.pdf) 2018 (3)
