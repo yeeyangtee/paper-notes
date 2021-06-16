@@ -23,15 +23,26 @@ Generic papers on DL that don't fit into the other categories.
 - 
 # Generative Adversarial Networks
 Any GAN related stuff. Image 2 Image translations, super-res etc. I put VAE related stuff here too since they are mostly used for generative purposes or thats what I read them for.
+
+## 2019
+- [SAGAN](https://github.com/yeeyangtee/paper-notes/blob/master/gans/self-attention-gan.md): Self-Attention Generative Adversarial Networks, [PMLR](https://proceedings.mlr.press/v97/zhang19d.html) 2019 (4)
+
+## 2018
+- [Spectral Normalisation for GANs](https://github.com/yeeyangtee/paper-notes/blob/master/gans/spectral-normalisation-for-gan.md), [ICLR](https://arxiv.org/abs/1802.05957), 2018 (1)
+- [Multimodal Unsupervised Image-to-Image Translation](https://github.com/yeeyangtee/paper-notes/blob/master/gans/multimodal-unsupervised-image-to-image-translation.md), [ECCV](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xun_Huang_Multimodal_Unsupervised_Image-to-image_ECCV_2018_paper.pdf) 2018 (3)
+- [StarGAN](https://github.com/yeeyangtee/paper-notes/blob/master/gans/stargan.md): Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation, [CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Choi_StarGAN_Unified_Generative_CVPR_2018_paper.pdf) 2018 (3)
+
+## 2017
+- [Vector Quantized-VAE, Neural Discrete Representation Learning](https://github.com/yeeyangtee/paper-notes/blob/master/gans/vq-vae.md), [NIPS](https://arxiv.org/abs/1711.00937) 2017 Deepmind (3)
+- [Wasserstein GAN](https://github.com/yeeyangtee/paper-notes/blob/master/gans/wgan.md), [PMLR](https://arxiv.org/abs/1701.07875) 2017 
+
+## Rest
 - OG GAN from Goodfellow
 - DCGAN
 - [Variational Autoencoders](https://github.com/yeeyangtee/paper-notes/blob/master/gans/vae.md), [Paper](https://arxiv.org/abs/1312.6114), 2014 (2)
-- [Vector Quantized-VAE, Neural Discrete Representation Learning](https://github.com/yeeyangtee/paper-notes/blob/master/gans/vq-vae.md), [NIPS](https://arxiv.org/abs/1711.00937) 2017 Deepmind (3)
+- 
 - Pix2Pix
 - CycleGAN
-- [Multimodal Unsupervised Image-to-Image Translation](https://github.com/yeeyangtee/paper-notes/blob/master/gans/multimodal-unsupervised-image-to-image-translation.md), [ECCV](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xun_Huang_Multimodal_Unsupervised_Image-to-image_ECCV_2018_paper.pdf) 2018 (3)
-- [StarGAN](https://github.com/yeeyangtee/paper-notes/blob/master/gans/stargan.md): Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation, [CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Choi_StarGAN_Unified_Generative_CVPR_2018_paper.pdf) 2018 (3)
-- [SAGAN](https://github.com/yeeyangtee/paper-notes/blob/master/gans/self-attention-gan.md): Self-Attention Generative Adversarial Networks, [PMLR](https://proceedings.mlr.press/v97/zhang19d.html) 2019 (4)
 
 
 
