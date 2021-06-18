@@ -21,6 +21,8 @@ Generic papers on DL that don't fit into the other categories.
 ## 2019 
 - [CutMix](https://github.com/yeeyangtee/paper-notes/blob/master/deep-learning/cutmix-regularization.md): Regularization Strategy to Train Strong Classifiers with Localizable Fatures, [ICCV](https://openaccess.thecvf.com/content_ICCV_2019/html/Yun_CutMix_Regularization_Strategy_to_Train_Strong_Classifiers_With_Localizable_Features_ICCV_2019_paper.html) 2019 (4)
 
+## 2018
+- [The Unreasonable Effectiveness of Deep Features as a Perceptual Metric](https://github.com/yeeyangtee/paper-notes/blob/master/deep-learning/effectiveness-deep-features-perceptual-metric.md), [CVPR](https://arxiv.org/abs/1801.03924) 2018 (4)
 
 ## 2017
 - [Neural Architecture Search with Reinforcement Learning](https://github.com/yeeyangtee/paper-notes/blob/master/deep-learning/neural-architecture-search-with-reinforcement-learning.md), [ICLR](https://arxiv.org/abs/1611.01578) 2017
@@ -31,6 +33,9 @@ Generic papers on DL that don't fit into the other categories.
 
 # Generative Adversarial Networks
 Any GAN related stuff. Image 2 Image translations, super-res etc. I put VAE related stuff here too since they are mostly used for generative purposes or thats what I read them for.
+
+## 2021
+- [Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation](https://github.com/yeeyangtee/paper-notes/blob/master/gans/encoding-in-style.md), [CVPR](https://arxiv.org/abs/2008.00951) 2021 (4)
 
 ## 2019
 - [SAGAN](https://github.com/yeeyangtee/paper-notes/blob/master/gans/self-attention-gan.md): Self-Attention Generative Adversarial Networks, [PMLR](https://proceedings.mlr.press/v97/zhang19d.html) 2019 (4)
