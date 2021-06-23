@@ -16,6 +16,7 @@ Generic papers on DL that don't fit into the other categories.
 ## 2020
 - [Once For All: Train one network and specialize it for efficient deployment](https://github.com/yeeyangtee/paper-notes/blob/master/deep-learning/once-for-all-train-one-network-and-specialize-it-for-efficient-deployment.md), [ICLR](https://arxiv.org/pdf/1908.09791) 2020 (2)
 - [Rethinking Pre-training and Self-training](https://github.com/yeeyangtee/paper-notes/blob/master/deep-learning/rethinking-pretraining-and-self-training.md), [NIPS](https://proceedings.neurips.cc/paper/2020/file/27e9661e033a73a6ad8cefcde965c54d-Paper.pdf) 2020 (2)
+- [Bootstrap Your Own Latent A New Approach to Self-Supervised Learning](https://github.com/yeeyangtee/paper-notes/blob/master/deep-learning/bootstrap-your-own-latent.md), [NIPS](https://arxiv.org/abs/2006.07733) 2020 (3)
 
 
 ## 2019 
