@@ -11,7 +11,7 @@ This repo holds the notes for papers that I've read. Previously did this in a MS
 Generic papers on DL that don't fit into the other categories.
 ## 2021
 - [Rethinking "Batch" in BatchNorm](https://github.com/yeeyangtee/paper-notes/blob/master/deep-learning/rethinking-batch-in-batchnorm.md), [Review](https://arxiv.org/abs/2105.07576) 2021 FacebookAI (1) 
-- [Drawing Multiple Augmentation Samples Per Image During Training Efficiently Decreases Test Error](https://github.com/yeeyangtee/paper-notes/blob/master/deep-learning/drawing-multiple-augmentation.md), [Arxiv preprint](https://arxiv.org/abs/2105.13343) 2021 DeepMind (3)
+- [Drawing Multiple Augmentation Samples Per Image During Training Efficiently Decreases Test Error](https://github.com/yeeyangtee/paper-notes/blob/master/deep-learning/drawing-multiple-augmentation.md), [Preprint](https://arxiv.org/abs/2105.13343) 2021 DeepMind (3)
 
 ## 2020
 - [Once For All: Train one network and specialize it for efficient deployment](https://github.com/yeeyangtee/paper-notes/blob/master/deep-learning/once-for-all-train-one-network-and-specialize-it-for-efficient-deployment.md), [ICLR](https://arxiv.org/pdf/1908.09791) 2020 (2)
@@ -24,6 +24,8 @@ Generic papers on DL that don't fit into the other categories.
 
 ## 2018
 - [The Unreasonable Effectiveness of Deep Features as a Perceptual Metric](https://github.com/yeeyangtee/paper-notes/blob/master/deep-learning/effectiveness-deep-features-perceptual-metric.md), [CVPR](https://arxiv.org/abs/1801.03924) 2018 (4)
+- [SegAN](https://github.com/yeeyangtee/paper-notes/blob/master/deep-learning/segan_adversarial_multiscale_loss_medical_segmentation.md): Adversarial Network with Multi-scale L1 Loss for Medical
+Image Segmentation, [Neuroinformatics](https://link.springer.com/article/10.1007/s12021-018-9377-x) 2018
 
 ## 2017
 - [Neural Architecture Search with Reinforcement Learning](https://github.com/yeeyangtee/paper-notes/blob/master/deep-learning/neural-architecture-search-with-reinforcement-learning.md), [ICLR](https://arxiv.org/abs/1611.01578) 2017
