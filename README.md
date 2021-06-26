@@ -25,7 +25,7 @@ Generic papers on DL that don't fit into the other categories.
 ## 2018
 - [The Unreasonable Effectiveness of Deep Features as a Perceptual Metric](https://github.com/yeeyangtee/paper-notes/blob/master/deep-learning/effectiveness-deep-features-perceptual-metric.md), [CVPR](https://arxiv.org/abs/1801.03924) 2018 (4)
 - [SegAN](https://github.com/yeeyangtee/paper-notes/blob/master/deep-learning/segan_adversarial_multiscale_loss_medical_segmentation.md): Adversarial Network with Multi-scale L1 Loss for Medical
-Image Segmentation, [Neuroinformatics](https://link.springer.com/article/10.1007/s12021-018-9377-x) 2018
+Image Segmentation, [Neuroinformatics](https://link.springer.com/article/10.1007/s12021-018-9377-x) 2018 (4)
 
 ## 2017
 - [Neural Architecture Search with Reinforcement Learning](https://github.com/yeeyangtee/paper-notes/blob/master/deep-learning/neural-architecture-search-with-reinforcement-learning.md), [ICLR](https://arxiv.org/abs/1611.01578) 2017
@@ -51,6 +51,8 @@ Any GAN related stuff. Image 2 Image translations, super-res etc. I put VAE rela
 ## 2017
 - [Vector Quantized-VAE, Neural Discrete Representation Learning](https://github.com/yeeyangtee/paper-notes/blob/master/gans/vq-vae.md), [NIPS](https://arxiv.org/abs/1711.00937) 2017 Deepmind (3)
 - [Wasserstein GAN](https://github.com/yeeyangtee/paper-notes/blob/master/gans/wgan.md), [PMLR](https://arxiv.org/abs/1701.07875) 2017 (2)
+- [pix2pix](https://github.com/yeeyangtee/paper-notes/blob/master/gans/pix2pix.md): Image-to-Image Translation with Conditional Adversarial Networks, [CVPR](https://phillipi.github.io/pix2pix/) 2017
+
 
 ## Rest
 - OG GAN from Goodfellow
