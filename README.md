@@ -51,7 +51,7 @@ Any GAN related stuff. Image 2 Image translations, super-res etc. I put VAE rela
 ## 2017
 - [Vector Quantized-VAE, Neural Discrete Representation Learning](https://github.com/yeeyangtee/paper-notes/blob/master/gans/vq-vae.md), [NIPS](https://arxiv.org/abs/1711.00937) 2017 Deepmind (3)
 - [Wasserstein GAN](https://github.com/yeeyangtee/paper-notes/blob/master/gans/wgan.md), [PMLR](https://arxiv.org/abs/1701.07875) 2017 (2)
-- [pix2pix](https://github.com/yeeyangtee/paper-notes/blob/master/gans/pix2pix.md): Image-to-Image Translation with Conditional Adversarial Networks, [CVPR](https://phillipi.github.io/pix2pix/) 2017
+- [pix2pix](https://github.com/yeeyangtee/paper-notes/blob/master/gans/pix2pix.md): Image-to-Image Translation with Conditional Adversarial Networks, [CVPR](https://phillipi.github.io/pix2pix/) 2017 (5)
 
 
 ## Rest
