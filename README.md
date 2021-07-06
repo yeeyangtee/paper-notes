@@ -5,7 +5,7 @@ Too many papers in DL/AI. Need some way to keep track of skimmed papers. Highlig
 This repo holds the notes for papers that I've read. Previously did this in a MS word document but that got too messy and slow when I needed to refer back. Still have yet to port over most of the past readings. Score is a number from (1) to (5) where 1 is just a quick skim through and 5 is complete understanding of the whole paper including all equations and reading chains.
 
 ## Formatting guide for this index page:
-- Name[Link to notes], Source/Conf/Journal [link to source], Year, Misc Source[Optional], Score
+- Name[Link to notes], Source/Conf/Journal [link to source], Year, Misc Source(Optional), Score
 
 # Deep Learning
 Generic papers on DL that don't fit into the other categories.
@@ -52,6 +52,7 @@ Any GAN related stuff. Image 2 Image translations, super-res etc. I put VAE rela
 - [Vector Quantized-VAE, Neural Discrete Representation Learning](https://github.com/yeeyangtee/paper-notes/blob/master/gans/vq-vae.md), [NIPS](https://arxiv.org/abs/1711.00937) 2017 Deepmind (3)
 - [Wasserstein GAN](https://github.com/yeeyangtee/paper-notes/blob/master/gans/wgan.md), [PMLR](https://arxiv.org/abs/1701.07875) 2017 (2)
 - [pix2pix](https://github.com/yeeyangtee/paper-notes/blob/master/gans/pix2pix.md): Image-to-Image Translation with Conditional Adversarial Networks, [CVPR](https://phillipi.github.io/pix2pix/) 2017 (5)
+- [CycleGAN](https://github.com/yeeyangtee/paper-notes/blob/master/gans/cyclegan.md): Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks, [ICCV](https://arxiv.org/abs/1703.10593) 2017 (5)
 
 
 ## Rest
