@@ -20,6 +20,7 @@ Generic papers on DL that don't fit into the other categories.
 
 
 ## 2019 
+- [CCNet](https://github.com/yeeyangtee/paper-notes/blob/master/deep-learning/criss-cross-attention-segmentation.md): Criss-Cross Attention for Semantic Segmentation, [ICCV](https://arxiv.org/abs/1811.11721) 2019 (4)
 - [CutMix](https://github.com/yeeyangtee/paper-notes/blob/master/deep-learning/cutmix-regularization.md): Regularization Strategy to Train Strong Classifiers with Localizable Fatures, [ICCV](https://openaccess.thecvf.com/content_ICCV_2019/html/Yun_CutMix_Regularization_Strategy_to_Train_Strong_Classifiers_With_Localizable_Features_ICCV_2019_paper.html) 2019 (4)
 
 ## 2018
