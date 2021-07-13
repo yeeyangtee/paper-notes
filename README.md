@@ -67,7 +67,8 @@ Any GAN related stuff. Image 2 Image translations, super-res etc. I put VAE rela
 - Pix2Pix
 - CycleGAN
 
-
+# Domain Adaptation
+- [Simplified unsupervised image translation for semantic segmentation adaptation](https://github.com/yeeyangtee/paper-notes/blob/master/da/suit.md), [Pattern Recognition](https://www.sciencedirect.com/science/article/abs/pii/S0031320320301461) 2020
 
 # Semi Supervised or Unsupervised learning
 
