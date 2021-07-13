@@ -40,6 +40,10 @@ Any GAN related stuff. Image 2 Image translations, super-res etc. I put VAE rela
 ## 2021
 - [Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation](https://github.com/yeeyangtee/paper-notes/blob/master/gans/encoding-in-style.md), [CVPR](https://arxiv.org/abs/2008.00951) 2021 (4)
 
+## 2020
+- [Contrastive Learning for Unpaired Image-to-Image Translation](https://github.com/yeeyangtee/paper-notes/blob/master/gans/contrastivei2i.md), [ECCV](https://arxiv.org/abs/2007.15651) 2020
+
+
 ## 2019
 - [SAGAN](https://github.com/yeeyangtee/paper-notes/blob/master/gans/self-attention-gan.md): Self-Attention Generative Adversarial Networks, [PMLR](https://proceedings.mlr.press/v97/zhang19d.html) 2019 (4)
 
