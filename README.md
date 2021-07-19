@@ -73,6 +73,10 @@ Any GAN related stuff. Image 2 Image translations, super-res etc. I put VAE rela
 
 # Semi Supervised or Unsupervised learning
 
+# IC focused Deep Learning
+- [Segmentation of Integrated Circuit Layouts from Scan Electron Microscopy Images](https://github.com/yeeyangtee/paper-notes/blob/master/ic/segmentation-of-layout-from-sem.md), [CCECE](https://ieeexplore.ieee.org/document/8447878) 2018
+
+
 # Reinforcement Learning
 Not really my focus but its a topic I find to be real cool. Somehow this is integrated with alot of DL work in general nowadays also, so better to know abit. Mainly will be reading articles or summaries by other people instead of the actual paper, just to get an intuitive idea and save time.
 
