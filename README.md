@@ -72,6 +72,8 @@ Any GAN related stuff. Image 2 Image translations, super-res etc. I put VAE rela
 - [Simplified unsupervised image translation for semantic segmentation adaptation](https://github.com/yeeyangtee/paper-notes/blob/master/da/suit.md), [Pattern Recognition](https://www.sciencedirect.com/science/article/abs/pii/S0031320320301461) 2020
 
 # Semi Supervised or Unsupervised learning
+- [DIVIDEMIX](https://github.com/yeeyangtee/paper-notes/blob/master/semisup/dividemix.md): LEARNING WITH NOISY LABELS AS SEMI-SUPERVISED LEARNING , [ICLR](https://arxiv.org/abs/2002.07394) 2020
+
 
 # IC focused Deep Learning
 - [Segmentation of Integrated Circuit Layouts from Scan Electron Microscopy Images](https://github.com/yeeyangtee/paper-notes/blob/master/ic/segmentation-of-layout-from-sem.md), [CCECE](https://ieeexplore.ieee.org/document/8447878) 2018
