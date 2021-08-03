@@ -47,6 +47,7 @@ Any GAN related stuff. Image 2 Image translations, super-res etc. I put VAE rela
 
 ## 2019
 - [SAGAN](https://github.com/yeeyangtee/paper-notes/blob/master/gans/self-attention-gan.md): Self-Attention Generative Adversarial Networks, [PMLR](https://proceedings.mlr.press/v97/zhang19d.html) 2019 (4)
+- [Few-Shot](https://github.com/yeeyangtee/paper-notes/blob/master/gans/funit.md) Unsupervised Image-to-Image Translation, [ICCV](https://arxiv.org/abs/1905.01723) 2019 (2)
 
 ## 2018
 - [Spectral Normalisation for GANs](https://github.com/yeeyangtee/paper-notes/blob/master/gans/spectral-normalisation-for-gan.md), [ICLR](https://arxiv.org/abs/1802.05957), 2018 (1)
