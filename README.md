@@ -70,7 +70,8 @@ Any GAN related stuff. Image 2 Image translations, super-res etc. I put VAE rela
 - CycleGAN
 
 # Domain Adaptation
-- [Simplified unsupervised image translation for semantic segmentation adaptation](https://github.com/yeeyangtee/paper-notes/blob/master/da/suit.md), [Pattern Recognition](https://www.sciencedirect.com/science/article/abs/pii/S0031320320301461) 2020
+- [Simplified unsupervised image translation for semantic segmentation adaptation](https://github.com/yeeyangtee/paper-notes/blob/master/da/suit.md), [Pattern Recognition](https://www.sciencedirect.com/science/article/abs/pii/S0031320320301461) 2020 (3)
+- [Scale variance](https://github.com/yeeyangtee/paper-notes/blob/master/da/scale-variance-min.md) minimization for unsupervised domain adaptation in image segmentation, [Pattern Recognition](https://www.sciencedirect.com/science/article/abs/pii/S0031320320305677) 2021 (1)
 
 # Semi Supervised or Unsupervised learning
 - [MixMatch](https://github.com/yeeyangtee/paper-notes/blob/master/semisup/mixmatch.md): A Holistic Approach to Semi-Supervised Learning, [NIPS](https://arxiv.org/abs/1905.02249) 2019 (2)
