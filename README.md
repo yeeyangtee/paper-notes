@@ -70,6 +70,7 @@ Any GAN related stuff. Image 2 Image translations, super-res etc. I put VAE rela
 - CycleGAN
 
 # Domain Adaptation
+- [ADVENT](https://github.com/yeeyangtee/paper-notes/blob/master/da/advent.md): Adversarial Entropy Minimization for Domain Adaptation in Semantic Segmentation, [CVPR](https://arxiv.org/abs/1811.12833) 2019 (1)
 - [Simplified unsupervised image translation for semantic segmentation adaptation](https://github.com/yeeyangtee/paper-notes/blob/master/da/suit.md), [Pattern Recognition](https://www.sciencedirect.com/science/article/abs/pii/S0031320320301461) 2020 (3)
 - [Scale variance](https://github.com/yeeyangtee/paper-notes/blob/master/da/scale-variance-min.md) minimization for unsupervised domain adaptation in image segmentation, [Pattern Recognition](https://www.sciencedirect.com/science/article/abs/pii/S0031320320305677) 2021 (1)
 
