@@ -59,6 +59,7 @@ Any GAN related stuff. Image 2 Image translations, super-res etc. I put VAE rela
 - [Wasserstein GAN](https://github.com/yeeyangtee/paper-notes/blob/master/gans/wgan.md), [PMLR](https://arxiv.org/abs/1701.07875) 2017 (2)
 - [pix2pix](https://github.com/yeeyangtee/paper-notes/blob/master/gans/pix2pix.md): Image-to-Image Translation with Conditional Adversarial Networks, [CVPR](https://phillipi.github.io/pix2pix/) 2017 (5)
 - [CycleGAN](https://github.com/yeeyangtee/paper-notes/blob/master/gans/cyclegan.md): Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks, [ICCV](https://arxiv.org/abs/1703.10593) 2017 (5)
+- [UNIT](https://github.com/yeeyangtee/paper-notes/blob/master/gans/unit.md), Unsupervised Image-to-Image Translation Networks, [NIPS](https://arxiv.org/abs/1703.00848) 2017 
 
 
 ## Rest
