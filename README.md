@@ -53,13 +53,14 @@ Any GAN related stuff. Image 2 Image translations, super-res etc. I put VAE rela
 - [Spectral Normalisation for GANs](https://github.com/yeeyangtee/paper-notes/blob/master/gans/spectral-normalisation-for-gan.md), [ICLR](https://arxiv.org/abs/1802.05957), 2018 (1)
 - [Multimodal Unsupervised Image-to-Image Translation](https://github.com/yeeyangtee/paper-notes/blob/master/gans/multimodal-unsupervised-image-to-image-translation.md), [ECCV](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xun_Huang_Multimodal_Unsupervised_Image-to-image_ECCV_2018_paper.pdf) 2018 (3)
 - [StarGAN](https://github.com/yeeyangtee/paper-notes/blob/master/gans/stargan.md): Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation, [CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Choi_StarGAN_Unified_Generative_CVPR_2018_paper.pdf) 2018 (3)
+- [Diverse](https://github.com/yeeyangtee/paper-notes/blob/master/gans/diversei2i.md) Image-to-Image Translation via Disentangled Representations, [ECCV](https://arxiv.org/abs/1808.00948) 2018
 
 ## 2017
 - [Vector Quantized-VAE, Neural Discrete Representation Learning](https://github.com/yeeyangtee/paper-notes/blob/master/gans/vq-vae.md), [NIPS](https://arxiv.org/abs/1711.00937) 2017 Deepmind (3)
 - [Wasserstein GAN](https://github.com/yeeyangtee/paper-notes/blob/master/gans/wgan.md), [PMLR](https://arxiv.org/abs/1701.07875) 2017 (2)
 - [pix2pix](https://github.com/yeeyangtee/paper-notes/blob/master/gans/pix2pix.md): Image-to-Image Translation with Conditional Adversarial Networks, [CVPR](https://phillipi.github.io/pix2pix/) 2017 (5)
 - [CycleGAN](https://github.com/yeeyangtee/paper-notes/blob/master/gans/cyclegan.md): Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks, [ICCV](https://arxiv.org/abs/1703.10593) 2017 (5)
-- [UNIT](https://github.com/yeeyangtee/paper-notes/blob/master/gans/unit.md), Unsupervised Image-to-Image Translation Networks, [NIPS](https://arxiv.org/abs/1703.00848) 2017 
+- [UNIT](https://github.com/yeeyangtee/paper-notes/blob/master/gans/unit.md), Unsupervised Image-to-Image Translation Networks, [NIPS](https://arxiv.org/abs/1703.00848) 2017 (3)
 
 
 ## Rest
