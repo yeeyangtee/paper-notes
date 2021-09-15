@@ -39,6 +39,7 @@ Image Segmentation, [Neuroinformatics](https://link.springer.com/article/10.1007
 Any GAN related stuff. Image 2 Image translations, super-res etc. I put VAE related stuff here too since they are mostly used for generative purposes or thats what I read them for.
 
 ## 2021
+- [Im2Vec](https://github.com/yeeyangtee/paper-notes/blob/master/gans/im2vec.md): Synthesizing Vector Graphics without Vector Supervision, [CVPR](https://openaccess.thecvf.com/content/CVPR2021/html/Reddy_Im2Vec_Synthesizing_Vector_Graphics_Without_Vector_Supervision_CVPR_2021_paper.html) 2021
 - [Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation](https://github.com/yeeyangtee/paper-notes/blob/master/gans/encoding-in-style.md), [CVPR](https://arxiv.org/abs/2008.00951) 2021 (4)
 
 ## 2020
