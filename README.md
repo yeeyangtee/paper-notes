@@ -39,7 +39,7 @@ Image Segmentation, [Neuroinformatics](https://link.springer.com/article/10.1007
 Any GAN related stuff. Image 2 Image translations, super-res etc. I put VAE related stuff here too since they are mostly used for generative purposes or thats what I read them for.
 
 ## 2021
-- [Im2Vec](https://github.com/yeeyangtee/paper-notes/blob/master/gans/im2vec.md): Synthesizing Vector Graphics without Vector Supervision, [CVPR](https://openaccess.thecvf.com/content/CVPR2021/html/Reddy_Im2Vec_Synthesizing_Vector_Graphics_Without_Vector_Supervision_CVPR_2021_paper.html) 2021
+- [Im2Vec](https://github.com/yeeyangtee/paper-notes/blob/master/gans/im2vec.md): Synthesizing Vector Graphics without Vector Supervision, [CVPR](https://openaccess.thecvf.com/content/CVPR2021/html/Reddy_Im2Vec_Synthesizing_Vector_Graphics_Without_Vector_Supervision_CVPR_2021_paper.html) 2021 (4)
 - [Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation](https://github.com/yeeyangtee/paper-notes/blob/master/gans/encoding-in-style.md), [CVPR](https://arxiv.org/abs/2008.00951) 2021 (4)
 
 ## 2020
@@ -79,7 +79,7 @@ Any GAN related stuff. Image 2 Image translations, super-res etc. I put VAE rela
 - [Scale variance](https://github.com/yeeyangtee/paper-notes/blob/master/da/scale-variance-min.md) minimization for unsupervised domain adaptation in image segmentation, [Pattern Recognition](https://www.sciencedirect.com/science/article/abs/pii/S0031320320305677) 2021 (1)
 
 # Semi Supervised or Unsupervised learning
-- [Self-training](https://github.com/yeeyangtee/paper-notes/blob/master/semisup/noisy-student.md) with Noisy Student improves ImageNet classification, [CVPR](https://openaccess.thecvf.com/content_CVPR_2020/html/Xie_Self-Training_With_Noisy_Student_Improves_ImageNet_Classification_CVPR_2020_paper.html) 2020
+- [Self-training](https://github.com/yeeyangtee/paper-notes/blob/master/semisup/noisy-student.md) with Noisy Student improves ImageNet classification, [CVPR](https://openaccess.thecvf.com/content_CVPR_2020/html/Xie_Self-Training_With_Noisy_Student_Improves_ImageNet_Classification_CVPR_2020_paper.html) 2020 (2)
 - [MixMatch](https://github.com/yeeyangtee/paper-notes/blob/master/semisup/mixmatch.md): A Holistic Approach to Semi-Supervised Learning, [NIPS](https://arxiv.org/abs/1905.02249) 2019 (2)
 - [Towards Annotation Efficient Segmentation via Image to Image Translation](https://github.com/yeeyangtee/paper-notes/blob/master/semisup/semi-segment-i2i.md), [IEEE T-MI](https://arxiv.org/abs/1904.01636) 2020 (1)
 - [DIVIDEMIX](https://github.com/yeeyangtee/paper-notes/blob/master/semisup/dividemix.md): LEARNING WITH NOISY LABELS AS SEMI-SUPERVISED LEARNING , [ICLR](https://arxiv.org/abs/2002.07394) 2020 (2)
