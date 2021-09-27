@@ -10,6 +10,7 @@ This repo holds the notes for papers that I've read. Previously did this in a MS
 # Deep Learning
 Generic papers on DL that don't fit into the other categories.
 ## 2021
+- [RepVGG](https://github.com/yeeyangtee/paper-notes/blob/master/deep-learning/repvgg.md): Making VGG-style ConvNets Great Again, [CVPR](https://arxiv.org/abs/2101.03697) 2021
 - [Rethinking "Batch" in BatchNorm](https://github.com/yeeyangtee/paper-notes/blob/master/deep-learning/rethinking-batch-in-batchnorm.md), [Review](https://arxiv.org/abs/2105.07576) 2021 FacebookAI (1) 
 - [Drawing Multiple Augmentation Samples Per Image During Training Efficiently Decreases Test Error](https://github.com/yeeyangtee/paper-notes/blob/master/deep-learning/drawing-multiple-augmentation.md), [Preprint](https://arxiv.org/abs/2105.13343) 2021 DeepMind (3)
 
