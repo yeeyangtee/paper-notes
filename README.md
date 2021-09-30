@@ -82,6 +82,7 @@ Any GAN related stuff. Image 2 Image translations, super-res etc. I put VAE rela
 - [Scale variance](https://github.com/yeeyangtee/paper-notes/blob/master/da/scale-variance-min.md) minimization for unsupervised domain adaptation in image segmentation, [Pattern Recognition](https://www.sciencedirect.com/science/article/abs/pii/S0031320320305677) 2021 (1)
 
 # Semi Supervised or Unsupervised learning
+- [Unsupervised Data Augmentation](https://github.com/yeeyangtee/paper-notes/blob/master/semisup/unsup-data-augment.md) for Consistency Training, [NIPS](https://arxiv.org/abs/1904.12848) 2020 (4)
 - [Self-training](https://github.com/yeeyangtee/paper-notes/blob/master/semisup/noisy-student.md) with Noisy Student improves ImageNet classification, [CVPR](https://openaccess.thecvf.com/content_CVPR_2020/html/Xie_Self-Training_With_Noisy_Student_Improves_ImageNet_Classification_CVPR_2020_paper.html) 2020 (2)
 - [MixMatch](https://github.com/yeeyangtee/paper-notes/blob/master/semisup/mixmatch.md): A Holistic Approach to Semi-Supervised Learning, [NIPS](https://arxiv.org/abs/1905.02249) 2019 (2)
 - [Towards Annotation Efficient Segmentation via Image to Image Translation](https://github.com/yeeyangtee/paper-notes/blob/master/semisup/semi-segment-i2i.md), [IEEE T-MI](https://arxiv.org/abs/1904.01636) 2020 (1)
