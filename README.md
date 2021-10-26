@@ -92,6 +92,7 @@ Any GAN related stuff. Image 2 Image translations, super-res etc. I put VAE rela
 
 
 # IC focused Deep Learning
+- [REFICS](https://github.com/yeeyangtee/paper-notes/blob/master/ic/refics.md): Assimilating Data-Driven Paradigms Into Reverse Engineering and Hardware Assurance on Integrated Circuits, [IEEEAccess](https://ieeexplore.ieee.org/abstract/document/9543688) 2021
 - [Segmentation of Integrated Circuit Layouts from Scan Electron Microscopy Images](https://github.com/yeeyangtee/paper-notes/blob/master/ic/segmentation-of-layout-from-sem.md), [CCECE](https://ieeexplore.ieee.org/document/8447878) 2018
 
 
