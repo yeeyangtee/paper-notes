@@ -85,12 +85,15 @@ Any GAN related stuff. Image 2 Image translations, super-res etc. I put VAE rela
 - [Bidirectional](https://github.com/yeeyangtee/paper-notes/blob/master/da/bidirectional.md) Learning for Domain Adaptation of Semantic Segmentation, [CVPR](https://arxiv.org/abs/1804.05827) 2019, 
 - [CyCADA](https://github.com/yeeyangtee/paper-notes/blob/master/da/cycada.md): Cycle-Consistent Adversarial Domain Adaptation, [PMLR](https://arxiv.org/abs/1711.03213) 2018
 
-# Semi Supervised or Unsupervised learning
+# Semi-Supervised or Self/Un-supervised learning
 - [Unsupervised Data Augmentation](https://github.com/yeeyangtee/paper-notes/blob/master/semisup/unsup-data-augment.md) for Consistency Training, [NIPS](https://arxiv.org/abs/1904.12848) 2020 (4)
 - [Self-training](https://github.com/yeeyangtee/paper-notes/blob/master/semisup/noisy-student.md) with Noisy Student improves ImageNet classification, [CVPR](https://openaccess.thecvf.com/content_CVPR_2020/html/Xie_Self-Training_With_Noisy_Student_Improves_ImageNet_Classification_CVPR_2020_paper.html) 2020 (2)
 - [MixMatch](https://github.com/yeeyangtee/paper-notes/blob/master/semisup/mixmatch.md): A Holistic Approach to Semi-Supervised Learning, [NIPS](https://arxiv.org/abs/1905.02249) 2019 (2)
 - [Towards Annotation Efficient Segmentation via Image to Image Translation](https://github.com/yeeyangtee/paper-notes/blob/master/semisup/semi-segment-i2i.md), [IEEE T-MI](https://arxiv.org/abs/1904.01636) 2020 (1)
 - [DIVIDEMIX](https://github.com/yeeyangtee/paper-notes/blob/master/semisup/dividemix.md): LEARNING WITH NOISY LABELS AS SEMI-SUPERVISED LEARNING , [ICLR](https://arxiv.org/abs/2002.07394) 2020 (2)
+- [Efficient Visual Pretraining with Contrastive Detection](https://github.com/yeeyangtee/paper-notes/blob/master/semisup/detcon.md), [ICCV](https://arxiv.org/abs/2103.10957) 2021
+- [PixPro](https://github.com/yeeyangtee/paper-notes/blob/master/semisup/pixpro.md), Propagate Yourself: Exploring Pixel-Level Consistency for Unsupervised Visual
+Representation Learning, [CVPR](https://arxiv.org/abs/2011.10043) 2021
 
 
 # IC focused Deep Learning
