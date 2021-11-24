@@ -4,6 +4,28 @@ Too many papers in DL/AI. Need some way to keep track of skimmed papers. Highlig
 
 This repo holds the notes for papers that I've read. Previously did this in a MS word document but that got too messy and slow when I needed to refer back. Still have yet to port over most of the past readings. Score is a number from (1) to (5) where 1 is just a quick skim through and 5 is complete understanding of the whole paper including all equations and reading chains.
 
+## TOC:
+- [Deep Learning](#deep-learning)
+  - [2021](#2021)
+  - [2020](#2020)
+  - [2019](#2019)
+  - [2018](#2018)
+  - [2017](#2017)
+  - [2014](#2014)
+- [Generative Adversarial Networks](#generative-adversarial-networks)
+  - [2021](#2021-1)
+  - [2020](#2020-1)
+  - [2019](#2019-1)
+  - [2018](#2018-1)
+  - [2017](#2017-1)
+  - [Rest](#rest)
+- [Domain Adaptation](#domain-adaptation)
+- [Semi-supervised and Self-supervised Learning](#semi-supervised-and-self-supervised-learning)
+- [IC focused Deep Learning](#ic-focused-deep-learning)
+- [Reinforcement Learning](#reinforcement-learning)
+  - [Articles](#articles)
+
+
 ## Formatting guide for this index page:
 - Name[Link to notes], Source/Conf/Journal [link to source], Year, Misc Source(Optional), Score
 
@@ -85,7 +107,7 @@ Any GAN related stuff. Image 2 Image translations, super-res etc. I put VAE rela
 - [Bidirectional](https://github.com/yeeyangtee/paper-notes/blob/master/da/bidirectional.md) Learning for Domain Adaptation of Semantic Segmentation, [CVPR](https://arxiv.org/abs/1804.05827) 2019, 
 - [CyCADA](https://github.com/yeeyangtee/paper-notes/blob/master/da/cycada.md): Cycle-Consistent Adversarial Domain Adaptation, [PMLR](https://arxiv.org/abs/1711.03213) 2018
 
-# Semi-Supervised or Self/Un-supervised learning
+# Semi-supervised and Self-supervised Learning
 - [Unsupervised Data Augmentation](https://github.com/yeeyangtee/paper-notes/blob/master/semisup/unsup-data-augment.md) for Consistency Training, [NIPS](https://arxiv.org/abs/1904.12848) 2020 (4)
 - [Self-training](https://github.com/yeeyangtee/paper-notes/blob/master/semisup/noisy-student.md) with Noisy Student improves ImageNet classification, [CVPR](https://openaccess.thecvf.com/content_CVPR_2020/html/Xie_Self-Training_With_Noisy_Student_Improves_ImageNet_Classification_CVPR_2020_paper.html) 2020 (2)
 - [MixMatch](https://github.com/yeeyangtee/paper-notes/blob/master/semisup/mixmatch.md): A Holistic Approach to Semi-Supervised Learning, [NIPS](https://arxiv.org/abs/1905.02249) 2019 (2)
