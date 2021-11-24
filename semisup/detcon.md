@@ -13,7 +13,16 @@ Main claims are that this objective can achieve the same performance (accuracy) 
 
 ### DetCon Objective details:
 DetCon starts with a contrastive loss (simple explanation [here](https://towardsdatascience.com/contrastive-loss-explaned-159f2d4a87ec)). To expand on that, there are two main additions to formulate the DetCon loss:
-1. A large set of 16 masks are sampled at each training iteration. Following that, the similarities between each pair of mask/image are densely evaluated. (Not super clear on this but I think it's basically taking 16 'crops' which are augmented differently, happens in step 2 of the [main steps](###main-steps:)
+1. A large set of 16 masks are sampled at each training iteration. Following that, the similarities between each pair of mask/image are densely evaluated. (Not super clear on this but I think it's basically taking 16 'crops' which are augmented differently, happens in step 2 of 'Main steps'. Also, try to choose crops/masks that contain objects that are as diverse as possible. 
+2. Mask out the loss such that similarity in the contrastive loss is only computed on regions that are the same object (determined by the binary masks.)
+
+### Segmentation methods to generate masks for step 1:
+Few methods to automatically generate masks that semantically segment different objects are covered, will just list them out.
+1. Spatial heuristic (just split image into regular grids)
+2. Image computable, [Felzenszwalb Huttenlocher](http://people.cs.uchicago.edu/~pff/papers/seg-ijcv.pdf) method (seems to work the best.)
+3. [Multiscale combinatorial Grouping](https://arxiv.org/abs/1503.00848)
+4. Human annotated (obviously not unsupervised)
+
 
 
 [code](https://github.com/deepmind/detcon) (tensorflow unfortunately)
