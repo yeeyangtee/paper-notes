@@ -116,6 +116,7 @@ Any GAN related stuff. Image 2 Image translations, super-res etc. I put VAE rela
 - [Efficient Visual Pretraining with Contrastive Detection](https://github.com/yeeyangtee/paper-notes/blob/master/semisup/detcon.md), [ICCV](https://arxiv.org/abs/2103.10957) 2021
 - [PixPro](https://github.com/yeeyangtee/paper-notes/blob/master/semisup/pixpro.md), Propagate Yourself: Exploring Pixel-Level Consistency for Unsupervised Visual
 Representation Learning, [CVPR](https://arxiv.org/abs/2011.10043) 2021
+- [SimCLR](https://github.com/yeeyangtee/paper-notes/blob/master/semisup/simclr.md): A Simple Framework for Contrastive Learning of Visual Representations, [ICML](https://arxiv.org/abs/2002.05709) 2021
 
 
 # IC focused Deep Learning
