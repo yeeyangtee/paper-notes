@@ -9,7 +9,7 @@ Review paper in 2020 for domain adaptation focusing on semantic segmentation app
 4. we want a way to utilize such 'other' data.
 
 ### Adaptation Spaces
-DA aims to solve the problem of covariate shift (domain gap etc etc) between source and target datasets. There are a few 'locations' that we can address this:
+DA aims to solve the problem of covariate shift (domain gap etc etc) between source and target datasets. There are a few 'locations' or 'adaptation spaces' that we can address this:
 - Input level, perform statistical matching at inputs using things like image-image translation. Quite unique from the following spaces because it happens 'off' the training task.
 - Feature level, perform matching or alignment of network latent embedding, e.g. pass source and target through a same network, optimise the features to be similar. This has worked well for classification task domain adaptation. BUT, for segmentation, the feature space is much more complicated as it contains structure and semantic information. (LOW+HIGH level)
 - Output level, somehow align on the segmentation output space or even at the last few layer outputs of the network. E.g. align the label statistics over the output segmentation map, some high level structure properties.
