@@ -32,6 +32,8 @@ This repo holds the notes for papers that I've read. Previously did this in a MS
 # Deep Learning
 Generic papers on DL that don't fit into the other categories.
 ## 2021
+- [CAPTURE] the Bot: Using Adversarial Examples to Improve CAPTCHA Robustness to Bot Attacks
+(https://github.com/yeeyangtee/paper-notes/blob/master/deep-learning/capture-adversarial-captcha.md): [IEEE IS](https://ieeexplore.ieee.org/document/9257172) 2021 (3)
 - DINO
 - torch.manual seed(3407) is all you need: On the influence of random seeds in deep learning architectures for computer vision, [arXiv](https://arxiv.org/abs/2109.08203) 2021
 - [RepVGG](https://github.com/yeeyangtee/paper-notes/blob/master/deep-learning/repvgg.md): Making VGG-style ConvNets Great Again, [CVPR](https://arxiv.org/abs/2101.03697) 2021 (3)
