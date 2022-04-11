@@ -124,6 +124,7 @@ Representation Learning, [CVPR](https://arxiv.org/abs/2011.10043) 2021
 
 # IC focused Deep Learning
 - [REFICS](https://github.com/yeeyangtee/paper-notes/blob/master/ic/refics.md): Assimilating Data-Driven Paradigms Into Reverse Engineering and Hardware Assurance on Integrated Circuits, [IEEEAccess](https://ieeexplore.ieee.org/abstract/document/9543688) 2021
+- [Generative](https://github.com/yeeyangtee/paper-notes/blob/master/ic/synthetic-sem-gan.md) Adversarial Network for Integrated Circuits Physical Assurance Using Scanning Electron Microscopy, [IPFA](https://ieeexplore.ieee.org/abstract/document/9617416/) 2021
 - [Segmentation of Integrated Circuit Layouts from Scan Electron Microscopy Images](https://github.com/yeeyangtee/paper-notes/blob/master/ic/segmentation-of-layout-from-sem.md), [CCECE](https://ieeexplore.ieee.org/document/8447878) 2018
 
 
