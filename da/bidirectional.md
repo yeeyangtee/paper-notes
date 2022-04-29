@@ -1,22 +1,25 @@
 # Bidirectional Learning for Domain Adaptation of Semantic Segmentation
 
-## Contributions:
-- novel biredctional learning framework for domain adaptation of segmentation
-- self supervised learning algo to learn a better segmentation adaptation model
+## Whats new:
+- Bidirectional learning framework, where image translation and segmentation are seen as 2 modules. Use results from segmentation to improve IT models.
+- Integrate Self supervised learning idea into the segmentation module. 
 
 ## Problem formulation:
-standard stuff.
-- segmentation task, difficult and expensive to get pixel level labels.
-- CNN allow us to generate training data
-- However, domain mismatch between real and synthetic data causes poor performance
+Standard UDA for segmentation. Have source image and label, have target image. Want to train a model to predict on target.
 
-## Key idea:
-- bidirection learning: two modules trained in two directions, translation to segmentation and segment to translation.
-- 'close loop learning' similar to cyclegan, key thing is how to design objective functions for both models to have feedback to each other.
+## Main ideas:
+**bidirectional learning**: 
+- two modules: Image Translation (CycleGAN) and Segmentation Adaptation (Deeplab/FCN)
+- Typical flow for UDA is train image translation, use outputs to train segmentation and done.
+- For BDL, the results from segmentaiton model are used to feedback image translation model to improve it through a perceptual loss. 
+- Then repeat the process (in expt they only do up to 2X)
+
+**perceptual loss**:
+- Computed as the L1 loss between segmentation output between A and fake_B, Also between A and reconstructed_A.
+- This is added to the Overall loss term to train F.
 - 
 
 
-[code](https://github.com/liyunsheng13/BDL)
 
 
 ### Forward direction, translation-to-segmentation (T2S)
@@ -28,3 +31,6 @@ standard stuff.
 ### Backward direction, segmentation to translation (S2T)
 - translation module is updated by segmentation model using a perceptual loss
 - 
+
+
+[code](https://github.com/liyunsheng13/BDL)
