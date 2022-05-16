@@ -121,6 +121,7 @@ Any GAN related stuff. Image 2 Image translations, super-res etc. I put VAE rela
 Representation Learning, [CVPR](https://arxiv.org/abs/2011.10043) 2021
 - [SimCLR](https://github.com/yeeyangtee/paper-notes/blob/master/semisup/simclr.md): A Simple Framework for Contrastive Learning of Visual Representations, [ICML](https://arxiv.org/abs/2002.05709) 2021
 - [Self-supervised learning](https://github.com/yeeyangtee/paper-notes/blob/master/semisup/ssl-fair.md): The dark matter of intelligence, [FAIR Blog](https://ai.facebook.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/), 2021
+- [GATO](https://github.com/yeeyangtee/paper-notes/blob/master/semisup/gato.md): A Generalist Agent, [DeepMind](https://www.deepmind.com/publications/a-generalist-agent), 2022
 
 # IC focused Deep Learning
 - [REFICS](https://github.com/yeeyangtee/paper-notes/blob/master/ic/refics.md): Assimilating Data-Driven Paradigms Into Reverse Engineering and Hardware Assurance on Integrated Circuits, [IEEEAccess](https://ieeexplore.ieee.org/abstract/document/9543688) 2021
