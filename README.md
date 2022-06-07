@@ -32,8 +32,8 @@ This repo holds the notes for papers that I've read. Previously did this in a MS
 # Deep Learning
 Generic papers on DL that don't fit into the other categories.
 ## 2021
-- [CAPTURE] the Bot: Using Adversarial Examples to Improve CAPTCHA Robustness to Bot Attacks
-(https://github.com/yeeyangtee/paper-notes/blob/master/deep-learning/capture-adversarial-captcha.md): [IEEE IS](https://ieeexplore.ieee.org/document/9257172) 2021 (3)
+- [CAPTURE the Bot](https://github.com/yeeyangtee/paper-notes/blob/master/deep-learning/capture-adversarial-captcha.md): Using Adversarial Examples to Improve CAPTCHA Robustness to Bot Attacks
+: [IEEE IS](https://ieeexplore.ieee.org/document/9257172) 2021 (3)
 - DINO
 - torch.manual seed(3407) is all you need: On the influence of random seeds in deep learning architectures for computer vision, [arXiv](https://arxiv.org/abs/2109.08203) 2021
 - [RepVGG](https://github.com/yeeyangtee/paper-notes/blob/master/deep-learning/repvgg.md): Making VGG-style ConvNets Great Again, [CVPR](https://arxiv.org/abs/2101.03697) 2021 (3)
@@ -123,7 +123,9 @@ Representation Learning, [CVPR](https://arxiv.org/abs/2011.10043) 2021
 - [Self-supervised learning](https://github.com/yeeyangtee/paper-notes/blob/master/semisup/ssl-fair.md): The dark matter of intelligence, [FAIR Blog](https://ai.facebook.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/), 2021
 - [GATO](https://github.com/yeeyangtee/paper-notes/blob/master/semisup/gato.md): A Generalist Agent, [DeepMind](https://www.deepmind.com/publications/a-generalist-agent), 2022
 
+
 # IC focused Deep Learning
+- [CADTransformer](https://github.com/yeeyangtee/paper-notes/blob/master/ic/cadtransformer.md), CVPR 2022
 - [REFICS](https://github.com/yeeyangtee/paper-notes/blob/master/ic/refics.md): Assimilating Data-Driven Paradigms Into Reverse Engineering and Hardware Assurance on Integrated Circuits, [IEEEAccess](https://ieeexplore.ieee.org/abstract/document/9543688) 2021
 - [Generative](https://github.com/yeeyangtee/paper-notes/blob/master/ic/synthetic-sem-gan.md) Adversarial Network for Integrated Circuits Physical Assurance Using Scanning Electron Microscopy, [IPFA](https://ieeexplore.ieee.org/abstract/document/9617416/) 2021
 - [Segmentation of Integrated Circuit Layouts from Scan Electron Microscopy Images](https://github.com/yeeyangtee/paper-notes/blob/master/ic/segmentation-of-layout-from-sem.md), [CCECE](https://ieeexplore.ieee.org/document/8447878) 2018
