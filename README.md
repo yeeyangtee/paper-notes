@@ -21,7 +21,7 @@ This repo holds the notes for papers that I've read. Previously did this in a MS
   - [Rest](#rest)
 - [Domain Adaptation](#domain-adaptation)
 - [Semi-supervised and Self-supervised Learning](#semi-supervised-and-self-supervised-learning)
-- [IC focused Deep Learning](#ic-focused-deep-learning)
+- [IC focused Deep Learning | IC related stuff](#ic-focused-deep-learning--ic-related-stuff)
 - [Reinforcement Learning](#reinforcement-learning)
   - [Articles](#articles)
 
@@ -120,10 +120,11 @@ Representation Learning, [CVPR](https://arxiv.org/abs/2011.10043) 2021
 - [SimCLR](https://github.com/yeeyangtee/paper-notes/blob/master/semisup/simclr.md): A Simple Framework for Contrastive Learning of Visual Representations, [ICML](https://arxiv.org/abs/2002.05709) 2021
 - [Self-supervised learning](https://github.com/yeeyangtee/paper-notes/blob/master/semisup/ssl-fair.md): The dark matter of intelligence, [FAIR Blog](https://ai.facebook.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/), 2021
 
-# IC focused Deep Learning
+# IC focused Deep Learning | IC related stuff
 - [REFICS](https://github.com/yeeyangtee/paper-notes/blob/master/ic/refics.md): Assimilating Data-Driven Paradigms Into Reverse Engineering and Hardware Assurance on Integrated Circuits, [IEEEAccess](https://ieeexplore.ieee.org/abstract/document/9543688) 2021
 - [Segmentation of Integrated Circuit Layouts from Scan Electron Microscopy Images](https://github.com/yeeyangtee/paper-notes/blob/master/ic/segmentation-of-layout-from-sem.md), [CCECE](https://ieeexplore.ieee.org/document/8447878) 2018
-
+- [Generative Adversarial Network](https://github.com/yeeyangtee/paper-notes/blob/master/ic/synthetic-sem-dataset-gan.md) for Integrated Circuits Physical Assurance Using Scanning Electron Microscopy, [IPFA](https://ieeexplore.ieee.org/document/9617416) 2021
+- [IC SynthLogo](https://github.com/yeeyangtee/paper-notes/blob/master/ic/ic-synth-logo.md): A Synthetic Logo Image Dataset for Counterfeit and Recycled IC detection, [IPFA](https://ieeexplore.ieee.org/document/9617352) 2021
 
 # Reinforcement Learning
 Not really my focus but its a topic I find to be real cool. Somehow this is integrated with alot of DL work in general nowadays also, so better to know abit. Mainly will be reading articles or summaries by other people instead of the actual paper, just to get an intuitive idea and save time.
