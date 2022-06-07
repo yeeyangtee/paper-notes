@@ -130,6 +130,8 @@ Representation Learning, [CVPR](https://arxiv.org/abs/2011.10043) 2021
 
 
 # IC focused Deep Learning | IC related stuff
+- [Logo Classification and Data Augmentation](https://github.com/yeeyangtee/paper-notes/blob/master/ic/logo-dataaug-pcb.md) Techniques for PCB Assurance and Counterfeit Detection, [ISTFA](https://dl.asminternational.org/istfa/proceedings-abstract/ISTFA2021/84215/12/18241) 2021
+- [PCB Component](https://github.com/yeeyangtee/paper-notes/blob/master/ic/pcb-detection-cv.md) Detection Using Computer Vision for Hardware Assurance, [Big Data and Cognitive Computing](https://www.mdpi.com/2504-2289/6/2/39) 2022
 - [REFICS](https://github.com/yeeyangtee/paper-notes/blob/master/ic/refics.md): Assimilating Data-Driven Paradigms Into Reverse Engineering and Hardware Assurance on Integrated Circuits, [IEEEAccess](https://ieeexplore.ieee.org/abstract/document/9543688) 2021
 - [Generative Adversarial Network](https://github.com/yeeyangtee/paper-notes/blob/master/ic/synthetic-sem-dataset-gan.md) for Integrated Circuits Physical Assurance Using Scanning Electron Microscopy, [IPFA](https://ieeexplore.ieee.org/document/9617416) 2021
 - [IC SynthLogo](https://github.com/yeeyangtee/paper-notes/blob/master/ic/ic-synth-logo.md): A Synthetic Logo Image Dataset for Counterfeit and Recycled IC detection, [IPFA](https://ieeexplore.ieee.org/document/9617352) 2021
