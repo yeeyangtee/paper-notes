@@ -6,6 +6,7 @@ This repo holds the notes for papers that I've read. Previously did this in a MS
 
 ## TOC:
 - [Deep Learning](#deep-learning)
+  - [2022](#2022)
   - [2021](#2021)
   - [2020](#2020)
   - [2019](#2019)
@@ -21,7 +22,6 @@ This repo holds the notes for papers that I've read. Previously did this in a MS
   - [Rest](#rest)
 - [Domain Adaptation](#domain-adaptation)
 - [Semi-supervised and Self-supervised Learning](#semi-supervised-and-self-supervised-learning)
-- [IC focused Deep Learning](#ic-focused-deep-learning)
 - [IC focused Deep Learning | IC related stuff](#ic-focused-deep-learning--ic-related-stuff)
 - [Reinforcement Learning](#reinforcement-learning)
   - [Articles](#articles)
@@ -32,6 +32,10 @@ This repo holds the notes for papers that I've read. Previously did this in a MS
 
 # Deep Learning
 Generic papers on DL that don't fit into the other categories.
+
+## 2022
+- [CADTransformer](https://github.com/yeeyangtee/paper-notes/blob/master/ic/cadtransformer.md), CVPR 2022
+
 ## 2021
 - [CAPTURE the Bot](https://github.com/yeeyangtee/paper-notes/blob/master/deep-learning/capture-adversarial-captcha.md): Using Adversarial Examples to Improve CAPTCHA Robustness to Bot Attacks
 : [IEEE IS](https://ieeexplore.ieee.org/document/9257172) 2021 (3)
@@ -125,14 +129,11 @@ Representation Learning, [CVPR](https://arxiv.org/abs/2011.10043) 2021
 - [GATO](https://github.com/yeeyangtee/paper-notes/blob/master/semisup/gato.md): A Generalist Agent, [DeepMind](https://www.deepmind.com/publications/a-generalist-agent), 2022
 
 
-# IC focused Deep Learning
-- [CADTransformer](https://github.com/yeeyangtee/paper-notes/blob/master/ic/cadtransformer.md), CVPR 2022
 # IC focused Deep Learning | IC related stuff
 - [REFICS](https://github.com/yeeyangtee/paper-notes/blob/master/ic/refics.md): Assimilating Data-Driven Paradigms Into Reverse Engineering and Hardware Assurance on Integrated Circuits, [IEEEAccess](https://ieeexplore.ieee.org/abstract/document/9543688) 2021
-- [Generative](https://github.com/yeeyangtee/paper-notes/blob/master/ic/synthetic-sem-gan.md) Adversarial Network for Integrated Circuits Physical Assurance Using Scanning Electron Microscopy, [IPFA](https://ieeexplore.ieee.org/abstract/document/9617416/) 2021
-- [Segmentation of Integrated Circuit Layouts from Scan Electron Microscopy Images](https://github.com/yeeyangtee/paper-notes/blob/master/ic/segmentation-of-layout-from-sem.md), [CCECE](https://ieeexplore.ieee.org/document/8447878) 2018
 - [Generative Adversarial Network](https://github.com/yeeyangtee/paper-notes/blob/master/ic/synthetic-sem-dataset-gan.md) for Integrated Circuits Physical Assurance Using Scanning Electron Microscopy, [IPFA](https://ieeexplore.ieee.org/document/9617416) 2021
 - [IC SynthLogo](https://github.com/yeeyangtee/paper-notes/blob/master/ic/ic-synth-logo.md): A Synthetic Logo Image Dataset for Counterfeit and Recycled IC detection, [IPFA](https://ieeexplore.ieee.org/document/9617352) 2021
+- [Segmentation of Integrated Circuit Layouts from Scan Electron Microscopy Images](https://github.com/yeeyangtee/paper-notes/blob/master/ic/segmentation-of-layout-from-sem.md), [CCECE](https://ieeexplore.ieee.org/document/8447878) 2018
 
 # Reinforcement Learning
 Not really my focus but its a topic I find to be real cool. Somehow this is integrated with alot of DL work in general nowadays also, so better to know abit. Mainly will be reading articles or summaries by other people instead of the actual paper, just to get an intuitive idea and save time.
